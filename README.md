@@ -25,5 +25,5 @@ A clean and simple **Flutter News App** using **NewsAPI.org** to fetch and displ
 
 ![Home Screen](screenshots/s1.png)
 ![Technology Screen](screenshots/s2.png)
-![Business Screen](screenshots/s2.png)
-![Health Screen](screenshots/s2.png)
+![Business Screen](screenshots/s3.png)
+![Health Screen](screenshots/s4.png)
