@@ -7,7 +7,7 @@ A clean and simple **Flutter News App** using **NewsAPI.org** to fetch and displ
 ##  Features
 - Fetches top headlines from NewsAPI.
 - Filter news by **country** and **category** (e.g. business, entertainment, health, science, sports, technology).
-- Displays article **title**, **thumbnail image**, **description**.
+- Show title, image, description, and link to full article
 - Handles loading states and error messages gracefully.
 - Built with clean code and proper state management for easy extensibility.
 
